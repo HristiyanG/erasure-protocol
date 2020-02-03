@@ -1,0 +1,31 @@
+{
+    "User1": {
+        "mnemonic": "accuse dry caught fire attack theory negative photo alter royal recycle join",
+        "privateKey":"0x09e7f380dc94703dd28abfcb175123e90b1f64192f5ec54935a9f51c2f4cc88c",
+        "publicKey": "0x0471fc30a34216192545fd82ded8838b921c9e744736e1a04b492b90ed223e71c36705e7e34b5f47006a93bdc41e4a879f7e8e13e37ec5e8604314dfe0b385ae87",
+        "compressedPublicKey": "0x0371fc30a34216192545fd82ded8838b921c9e744736e1a04b492b90ed223e71c3",
+        "address": "0x7B6a7E09E942FFbd7C4D8556d540097A32386247"
+    },
+    "User2": {
+        "mnemonic": "laugh autumn knock ritual seminar catalog ability sunset lab learn balcony swarm",
+        "privateKey": "0xc1d9fa20df2c02664a1cb6df9407650526c72f55b940aef24204e3c0c374f151",
+        "publicKey": "0x04faf8020a46426ce93885fb32f91eed335b193d5b71a14f54db3e8f238ff0b568838621ce2f4d0d81ca932fb66f26547cfaa6c1d42b6c342c741c58e230b6e384",
+        "compressedPublicKey": "0x02faf8020a46426ce93885fb32f91eed335b193d5b71a14f54db3e8f238ff0b568",
+        "address": "0xe0846649527818EE892Af5073170e5A51E452e8e"
+        
+    },
+    "User3": {
+        "mnemonic": "subway suit illness enjoy thought scheme drink borrow urban fiber pyramid replace",
+        "privateKey": "0x811d20f6dc69e2fb110dba6b7300fddc1265d552e3a154015dfcf15d44e4ee78",
+        "publicKey": "0x04d95f53ac7646d08403c01ea40442aa1f3054bceecaa46a0f80b71d0aac6d158cfbaca6cbbd725791b323366f6c967e7464b81a10f60250567b3d55bc3a24f547",
+        "compressedPublicKey": "0x03d95f53ac7646d08403c01ea40442aa1f3054bceecaa46a0f80b71d0aac6d158c",
+        "address": "0xab4a1299043FB44Bc001Cb859182b34B84E2fC99"
+    },
+    "User4": {
+        "mnemonic": "wreck drive find sail arrest menu float stairs leave uncle keep spy",
+        "privateKey": "0xee73c8021a94c5405b645db7d1b9355b00ce9f125057a5fa4a62544eefe0835e",
+        "publicKey": "0x042169776ec899c6fcd8d588964b7e5f2d72e11a4ca296d70cb22535ce1f9caaaa1e0fd1ece74a28da99393afab8803704e9b45eca1141fc068e4217810a2f949b",
+        "compressedPublicKey": "0x032169776ec899c6fcd8d588964b7e5f2d72e11a4ca296d70cb22535ce1f9caaaa",
+        "address": "0x16B40214c2d1DD59cb23102CA216e20C60DC2A3A"
+    }
+}
